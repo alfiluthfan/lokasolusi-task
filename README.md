@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 Cara Menjalankan Project
+## Cara Menjalankan Project
 
 1. **Clone repository**
    ```bash
@@ -23,7 +23,7 @@
 
 ---
 
-## 📝 Penjelasan Singkat
+## Penjelasan Singkat
 
 Saya melakukan setup **Tailwind CSS** dengan mengikuti dokumentasi resmi serta referensi dari video YouTube.  
 Integrasi Tailwind dilakukan melalui konfigurasi `vite.config.js` dan import pada `style.css` agar class dapat digunakan langsung di setiap komponen.
